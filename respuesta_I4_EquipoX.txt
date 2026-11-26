@@ -1,1 +1,9 @@
+El Juri Yair
+Duprat Santi
 
+BETA)a) color de fondo azul 
+e) no tuvimos problema
+f) rechazos para entrar al repositorio aunque lo solucioné
+g) ejecutar git pull origin TESTING 
+h) podria sobreescribir o dañar el historial
+i)subir sus cambios a TESTING y asegurarse de que estén integrados, cambiar a la rama DESARROLLO y realizar un merge de TESTING, y subir los cambios a GitHub con git push origin DESARROLLO.
